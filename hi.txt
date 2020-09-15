@@ -1,0 +1,21 @@
+Test name                                                   
+
+22nd Sep Core Java                 
+
+26th Sep   Core Java            
+
+ 
+
+Our test:
+
+30th Sep Hibernate 
+
+ 
+
+7th Oct Spring Core,MVC 
+
+12th Oct Spring Boot
+
+16th Oct Angular
+
+21st Oct Final exam
